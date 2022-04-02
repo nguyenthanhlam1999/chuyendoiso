@@ -1,0 +1,13 @@
+#wrapper
+{
+    width: 1170px;
+}
+#wrapper #header
+{
+    display: block;
+    width: 330px;
+}
+#wrapper #header #logo
+{
+    float: left;
+}
